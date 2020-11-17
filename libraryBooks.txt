@@ -1,0 +1,12 @@
+0340881534,The Recruit,Robert Muchamore,1/9/2010,1234
+9780340881545,Class A, Robert Muchamore,1/9/2012,8888
+9780753555644,Elon Musk Autobiography,Ashlee Vance,10/3/2016,4222
+9780262581684,Unsupervised Learning: Foundations of Neural Computation,Geoffrey Hinton and Yoshua Bengio,9/06/2016,1111
+9780321563842,The C++ Programming Language, Bjarne Stroustrup,20/10/2012,0
+9780262035613,Deep Learning (Adaptive Computation and Machine Learning Series),Ian Goodfellow and Yoshua Bengio and Aaron Courville,20/10/2020,0
+9780718197384,The Price of Inequality,Joseph Stiglitz,8/03/2013,2610
+9780981162614,The Art of War,Sun-Tzu,9/12/2016,1234
+9781679594625,The Prince,Niccolo Machiavelli,22/10/2018,0
+9780140449334,Meditations,Marcus Aurelius,27/04/2019,4321
+9780140449136,Crime and Punishment,Fyodor Dostoevsky,30/1/2018,0
+9780099470465,Catch-22,Joseph Heller,5/02/2010,0
